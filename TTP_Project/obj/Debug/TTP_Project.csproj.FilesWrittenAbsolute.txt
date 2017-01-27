@@ -1,0 +1,16 @@
+/Users/mrrider/TTP_Project/TTP_Project/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mrrider/TTP_Project/TTP_Project/bin/TTP_Project.dll.mdb
+/Users/mrrider/TTP_Project/TTP_Project/bin/TTP_Project.dll
+/Users/mrrider/TTP_Project/TTP_Project/obj/Debug/TTP_Project.dll
+/Users/mrrider/TTP_Project/TTP_Project/obj/Debug/TTP_Project.dll.mdb
+/Users/mrrider/TTP_Project/TTP_Project/bin/System.Web.Razor.dll
+/Users/mrrider/TTP_Project/TTP_Project/bin/Microsoft.Web.Infrastructure.dll
+/Users/mrrider/TTP_Project/TTP_Project/bin/System.Web.Helpers.dll
+/Users/mrrider/TTP_Project/TTP_Project/bin/System.Web.WebPages.Deployment.dll
+/Users/mrrider/TTP_Project/TTP_Project/bin/System.Web.WebPages.dll
+/Users/mrrider/TTP_Project/TTP_Project/bin/System.Web.WebPages.Razor.dll
+/Users/mrrider/TTP_Project/TTP_Project/bin/System.Web.Mvc.dll
+/Users/mrrider/TTP_Project/TTP_Project/bin/System.Net.Http.Formatting.dll
+/Users/mrrider/TTP_Project/TTP_Project/bin/System.Web.Http.dll
+/Users/mrrider/TTP_Project/TTP_Project/bin/System.Web.Http.WebHost.dll
+/Users/mrrider/TTP_Project/TTP_Project/bin/Newtonsoft.Json.dll

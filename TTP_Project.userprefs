@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F9DCBBC8-8F95-44B1-B471-21B0D815CF4D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TTP_Project/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="TTP_Project/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TTP__Project PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
