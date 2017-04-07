@@ -3,21 +3,33 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using System.Web.Mvc.Ajax;
+using TTP_Project.Models;
+using TTP_Project.Models.entities;
+using System.Data;
 
 namespace TTP_Project.Controllers
 {
-	public class HomeController : Controller
-	{
-		public ActionResult Index()
-		{
-			var mvcName = typeof(Controller).Assembly.GetName();
-			var isMono = Type.GetType("Mono.Runtime") != null;
+    public class HomeController : Controller
+    {
+        public ActionResult Index()
+        {
+            return View();
+        }
 
-			ViewData["Version"] = mvcName.Version.Major + "." + mvcName.Version.Minor;
-			ViewData["Runtime"] = isMono ? "Mono" : ".NET";
+        public ActionResult About()
+        {
+            ViewBag.Message = "";
 
-			return View();
-		}
-	}
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "";
+
+            return View();
+        }
+
+   
+    }
 }
